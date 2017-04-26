@@ -1,0 +1,21 @@
+{
+    "author": "itstim1234@googlemail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "helloworld",
+    "pebble": {
+        "displayName": "HelloWorld",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "55869e0a-8f0a-4591-900b-4da55d6517f7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
